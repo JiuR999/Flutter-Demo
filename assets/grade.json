@@ -1,0 +1,580 @@
+{
+    "data": [
+      {
+        "courseName": "人工智能技术基础与实践",
+        "courseNum": "JK190700",
+        "courseValue": "3.0",
+        "courseType": "限选",
+        "courseGrade": "8.10",
+        "coursePoint": null
+      },
+      {
+        "courseName": "数据挖掘技术",
+        "courseNum": "JK191030",
+        "courseValue": "2.0",
+        "courseType": "限选",
+        "courseGrade": "7.20",
+        "coursePoint": null
+      },
+      {
+        "courseName": "工程经济学",
+        "courseNum": "JK190320",
+        "courseValue": "2.5",
+        "courseType": "必修",
+        "courseGrade": "5.75",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机网络",
+        "courseNum": "JK190470",
+        "courseValue": "2.5",
+        "courseType": "必修",
+        "courseGrade": "7.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机网络综合设计",
+        "courseNum": "JK190480",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "3.90",
+        "coursePoint": null
+      },
+      {
+        "courseName": "软件构造",
+        "courseNum": "JK190790",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "4.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "软件构造实践",
+        "courseNum": "JK190800",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "3.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "数据库应用系统综合设计",
+        "courseNum": "JK191010",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "4.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "数据库原理及应用",
+        "courseNum": "JK191020",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "12.90",
+        "coursePoint": null
+      },
+      {
+        "courseName": "形势与政策5(四年制）",
+        "courseNum": "MY190015",
+        "courseValue": "0.3",
+        "courseType": "必修",
+        "courseGrade": "1.25",
+        "coursePoint": null
+      },
+      {
+        "courseName": "Linux系统安全管理及开发",
+        "courseNum": "JK190130",
+        "courseValue": "3.0",
+        "courseType": "限选",
+        "courseGrade": "8.16",
+        "coursePoint": null
+      },
+      {
+        "courseName": "编译原理",
+        "courseNum": "JK190240",
+        "courseValue": "2.0",
+        "courseType": "限选",
+        "courseGrade": "4.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "信息系统开发原理及实践",
+        "courseNum": "JK191280",
+        "courseValue": "2.0",
+        "courseType": "限选",
+        "courseGrade": "7.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "创新创业基础",
+        "courseNum": "JW190010",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "9.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机操作系统原理",
+        "courseNum": "JK190390",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "9.90",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机操作系统综合设计",
+        "courseNum": "JK190400",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "1.90",
+        "coursePoint": null
+      },
+      {
+        "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
+        "courseNum": "MY220040",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "9.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "软件过程与项目管理",
+        "courseNum": "JK190810",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "5.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "软件过程与项目管理实践",
+        "courseNum": "JK190820",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "3.22",
+        "coursePoint": null
+      },
+      {
+        "courseName": "软件项目开发与实践1",
+        "courseNum": "JK190871",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "11.70",
+        "coursePoint": null
+      },
+      {
+        "courseName": "习近平新时代中国特色社会主义思想概论",
+        "courseNum": "MY220030",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "13.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "形势与政策4(四年制）",
+        "courseNum": "MY190014",
+        "courseValue": "0.3",
+        "courseType": "必修",
+        "courseGrade": "1.25",
+        "coursePoint": null
+      },
+      {
+        "courseName": "需求工程",
+        "courseNum": "JK191300",
+        "courseValue": "1.3",
+        "courseType": "必修",
+        "courseGrade": "4.38",
+        "coursePoint": null
+      },
+      {
+        "courseName": "需求工程实践",
+        "courseNum": "JK191310",
+        "courseValue": "1.3",
+        "courseType": "必修",
+        "courseGrade": "3.75",
+        "coursePoint": null
+      },
+      {
+        "courseName": "综合英语4",
+        "courseNum": "WY160104",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "8.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "Java程序设计方法与实践",
+        "courseNum": "JK190100",
+        "courseValue": "2.5",
+        "courseType": "限选",
+        "courseGrade": "8.18",
+        "coursePoint": null
+      },
+      {
+        "courseName": "Python程序设计方法与实践",
+        "courseNum": "JK190160",
+        "courseValue": "2.5",
+        "courseType": "限选",
+        "courseGrade": "8.50",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机图形学原理",
+        "courseNum": "JK190450",
+        "courseValue": "2.0",
+        "courseType": "限选",
+        "courseGrade": "7.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "大学物理实验B1",
+        "courseNum": "LX190101",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "3.36",
+        "coursePoint": null
+      },
+      {
+        "courseName": "概率论与数理统计",
+        "courseNum": "LX190020",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "12.90",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机系统基础",
+        "courseNum": "JK190490",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "3.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机系统基础实验",
+        "courseNum": "JK190500",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "2.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "马克思主义基本原理",
+        "courseNum": "MY220020",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "9.30",
+        "coursePoint": null
+      },
+      {
+        "courseName": "面向对象程序设计方法（C++）",
+        "courseNum": "JK190650",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "6.40",
+        "coursePoint": null
+      },
+      {
+        "courseName": "面向对象程序设计实践（C++）",
+        "courseNum": "JK190660",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "7.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "思想政治理论课实践教学",
+        "courseNum": "MY160280",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "8.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "算法分析与设计",
+        "courseNum": "JK191080",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "6.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "算法分析与设计实践",
+        "courseNum": "JK191090",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "4.20",
+        "coursePoint": null
+      },
+      {
+        "courseName": "形势与政策3(四年制）",
+        "courseNum": "MY190013",
+        "courseValue": "0.3",
+        "courseType": "必修",
+        "courseGrade": "1.25",
+        "coursePoint": null
+      },
+      {
+        "courseName": "综合英语3",
+        "courseNum": "WY160203",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "6.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "可视化与可视分析I",
+        "courseNum": "JK190581",
+        "courseValue": "2.0",
+        "courseType": "限选",
+        "courseGrade": "5.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "大学物理D",
+        "courseNum": "LX190080",
+        "courseValue": "4.5",
+        "courseType": "必修",
+        "courseGrade": "16.38",
+        "coursePoint": null
+      },
+      {
+        "courseName": "高等数学B2",
+        "courseNum": "LX160082",
+        "courseValue": "5.0",
+        "courseType": "必修",
+        "courseGrade": "22.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "集合论与图论",
+        "courseNum": "JK190370",
+        "courseValue": "2.5",
+        "courseType": "必修",
+        "courseGrade": "9.50",
+        "coursePoint": null
+      },
+      {
+        "courseName": "数据结构",
+        "courseNum": "JK190970",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "12.93",
+        "coursePoint": null
+      },
+      {
+        "courseName": "思想道德修养与法律基础",
+        "courseNum": "MY160210",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "9.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "线性代数",
+        "courseNum": "LX190010",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "14.40",
+        "coursePoint": null
+      },
+      {
+        "courseName": "形势与政策2(四年制）",
+        "courseNum": "MY190012",
+        "courseValue": "0.3",
+        "courseType": "必修",
+        "courseGrade": "1.25",
+        "coursePoint": null
+      },
+      {
+        "courseName": "综合英语2",
+        "courseNum": "WY160372",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "9.60",
+        "coursePoint": null
+      },
+      {
+        "courseName": "程序设计基础",
+        "courseNum": "JK190270",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "8.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "程序设计基础实验",
+        "courseNum": "JK190280",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "4.90",
+        "coursePoint": null
+      },
+      {
+        "courseName": "大学生心理健康教育",
+        "courseNum": "FX160020",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "4.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "高等数学B1",
+        "courseNum": "LX160081",
+        "courseValue": "5.0",
+        "courseType": "必修",
+        "courseGrade": "17.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "计算机学科导论",
+        "courseNum": "JK190520",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "3.50",
+        "coursePoint": null
+      },
+      {
+        "courseName": "军事技能训练",
+        "courseNum": "BW190010",
+        "courseValue": "0.5",
+        "courseType": "必修",
+        "courseGrade": "1.70",
+        "coursePoint": null
+      },
+      {
+        "courseName": "军事理论",
+        "courseNum": "GF190010",
+        "courseValue": "0.5",
+        "courseType": "必修",
+        "courseGrade": "1.85",
+        "coursePoint": null
+      },
+      {
+        "courseName": "入学教育",
+        "courseNum": "XG160010",
+        "courseValue": "0.5",
+        "courseType": "必修",
+        "courseGrade": "1.30",
+        "coursePoint": null
+      },
+      {
+        "courseName": "数理逻辑",
+        "courseNum": "JK191050",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "8.20",
+        "coursePoint": null
+      },
+      {
+        "courseName": "形势与政策1(四年制）",
+        "courseNum": "MY190011",
+        "courseValue": "0.3",
+        "courseType": "必修",
+        "courseGrade": "1.25",
+        "coursePoint": null
+      },
+      {
+        "courseName": "运动基础",
+        "courseNum": "TY190010",
+        "courseValue": "1.0",
+        "courseType": "必修",
+        "courseGrade": "4.40",
+        "coursePoint": null
+      },
+      {
+        "courseName": "中国近现代史纲要",
+        "courseNum": "MY160360",
+        "courseValue": "2.0",
+        "courseType": "必修",
+        "courseGrade": "6.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "综合英语1",
+        "courseNum": "WY160371",
+        "courseValue": "3.0",
+        "courseType": "必修",
+        "courseGrade": "8.40",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2022-2023-2",
+        "courseNum": "机动车驾驶培训",
+        "courseValue": "998102070",
+        "courseType": "2.0",
+        "courseGrade": "8.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2022-2023-1",
+        "courseNum": "党的基础知识",
+        "courseValue": "DWT20010",
+        "courseType": "1.0",
+        "courseGrade": "3.50",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2022-2023-1",
+        "courseNum": "设计与人文：当代公共艺术",
+        "courseValue": "ER160056",
+        "courseType": "2.0",
+        "courseGrade": "9.40",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2021-2022-2",
+        "courseNum": "大学生魅力讲话实操",
+        "courseValue": "ER160058",
+        "courseType": "1.0",
+        "courseGrade": "5.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2021-2022-2",
+        "courseNum": "网络创业理论与实践",
+        "courseValue": "ER160028",
+        "courseType": "2.0",
+        "courseGrade": "9.80",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2023-2024-1",
+        "courseNum": "乒羽俱乐部3",
+        "courseValue": "TY190203",
+        "courseType": "0.5",
+        "courseGrade": "2.25",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2022-2023-2",
+        "courseNum": "乒羽俱乐部2",
+        "courseValue": "TY190202",
+        "courseType": "0.5",
+        "courseGrade": "2.00",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2022-2023-1",
+        "courseNum": "大学体育[3]-乒乓球",
+        "courseValue": "TY160522",
+        "courseType": "1.0",
+        "courseGrade": "3.50",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2022-2023-1",
+        "courseNum": "健身气功俱乐部1",
+        "courseValue": "TY220021",
+        "courseType": "0.5",
+        "courseGrade": "2.30",
+        "coursePoint": null
+      },
+      {
+        "courseName": "2021-2022-2",
+        "courseNum": "大学体育[2]-健美操",
+        "courseValue": "TY160507",
+        "courseType": "1.0",
+        "courseGrade": "4.10",
+        "coursePoint": null
+      }
+    ]
+  }
